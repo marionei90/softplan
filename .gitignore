@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Calculate/obj/Debug/net6.0
+/Calculate.Domain/obj
+/Desafio.Domain.Test/obj
+/Integration.Test/obj
+/ReturnFees/obj
+/ReturnFees.Domain/obj
+/ReturnFees.Domain.Test/obj
