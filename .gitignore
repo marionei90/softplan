@@ -10,3 +10,12 @@
 /ReturnFees/obj
 /ReturnFees.Domain/obj
 /ReturnFees.Domain.Test/obj
+/Calculate/bin/Debug/net6.0
+/Calculate/obj/Release/net6.0
+/Calculate/obj
+/Calculate.Domain/bin/Debug/net6.0
+/Desafio.Domain.Test/bin
+/Integration.Test/bin
+/ReturnFees/bin/Debug/net6.0
+/ReturnFees.Domain/bin/Debug/net6.0
+/ReturnFees.Domain.Test/bin
