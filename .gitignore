@@ -19,3 +19,5 @@
 /ReturnFees/bin/Debug/net6.0
 /ReturnFees.Domain/bin/Debug/net6.0
 /ReturnFees.Domain.Test/bin
+/Calculate.Domain.Test/bin
+/Calculate.Domain.Test/obj
